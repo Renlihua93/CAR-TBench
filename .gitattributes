@@ -1,0 +1,4 @@
+# Byte-exact storage: this release ships SHA-256 manifests (MANIFEST.sha256,
+# manifest.json) computed over the files as they sit on disk. Any line-ending
+# normalisation would break every checksum, so disable all conversion.
+* -text

@@ -1,0 +1,41 @@
+# --- Private hold-out: NEVER publish (see ZENODO_DEPOSIT.md, section 3) ---
+data/items/private/
+holdout_50.jsonl
+*holdout*
+
+# --- Credentials: NEVER commit ---
+.env
+.env.*
+*keys*.json
+cartbench_keys.json
+secrets*
+
+# --- Python / build artefacts ---
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# --- LaTeX intermediates (if ever built here) ---
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+
+# --- Large local artefacts ---
+results/
+caches/
+cache/
+*.zip
+
+# --- OS / editor cruft ---
+Thumbs.db
+desktop.ini
+.DS_Store
+~$*
+.vscode/
+.idea/
