@@ -1,6 +1,6 @@
 {
   "release": "0.2-public",
-  "date": "2026-10-27",
+  "date": "2026-11-02",
   "files": [
     {
       "path": "CANARY.txt",
@@ -9,8 +9,8 @@
     },
     {
       "path": "CITATION.cff",
-      "sha256": "bdd907fd1cefa6b17e7dff073bf52918678187caae335143300fb04832173a01",
-      "bytes": 569
+      "sha256": "1de7026ba95ec9331bb136f21e7b967fd6052680076f986a81ad317215c74f3c",
+      "bytes": 821
     },
     {
       "path": "LICENSE-CODE",
@@ -29,8 +29,8 @@
     },
     {
       "path": "README.md",
-      "sha256": "e520a7c96afeb26b5550cf37b2a56fd72f7176624c8e45c6c7b18cfdd672f5f5",
-      "bytes": 3023
+      "sha256": "8bdc73e2346ec034e04f90416252780fbb0f18715af49906ba28a5d5d9ea16de",
+      "bytes": 3550
     },
     {
       "path": "ZENODO_DEPOSIT.md",
@@ -309,8 +309,8 @@
     },
     {
       "path": "docs/TRIPOD_LLM_CHECKLIST.md",
-      "sha256": "37167e51c2b77a2f0b89cf9ec085df1b7c85f2bbd8e2274cb7b278d04dc94502",
-      "bytes": 4550
+      "sha256": "b249ff0fa8d8f73107c57a3fba2870c9563bb19868cbe8f06d166e4a9fe475c1",
+      "bytes": 4542
     }
   ]
 }

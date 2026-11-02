@@ -40,7 +40,7 @@
 | Sample size / power / MDE | Yes | §3.5; Supplementary MDE table |
 | Missing data and parse failures | Yes | §3.4–3.5 |
 | Fairness, equity and subgroup considerations | Partly | §5 (limitations: single-centre baseline, Chinese/English corpus); no demographic subgroup analysis |
-| Ethics approval and consent | Template | Declarations (number to be inserted) |
+| Ethics approval and consent | Yes | Declarations (approval 2026-R745) |
 | Data and code availability | Yes (template) | Declarations; release package |
 
 ## 4. Results
